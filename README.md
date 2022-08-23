@@ -1,3 +1,3 @@
 # swapi_dev
 
-Code written by <Razi Fertani>
+Code written by Razi Fertani
